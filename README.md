@@ -21,11 +21,11 @@ Botões de 'Editar' e 'Excluir', também serão acrescidos ao site.
 ## :hammer_and_wrench: Estrutura de Dados
 *Cadastro dos Clientes
 
-Cadastro {
-    id:00
-    nome:"Nome"
-    data_nascimento:"01/04/2004"
-    sexo:"Masculino","Feminino"
+    Cadastro {
+        id:00
+        name:"Nome"
+        date:"Data de Nascimento"
+        sexo:"Masculino","Feminino"
     }
     
 ## :handshake: Colaboradores
