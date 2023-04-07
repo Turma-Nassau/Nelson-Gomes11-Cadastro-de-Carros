@@ -18,6 +18,16 @@ Botões de 'Editar' e 'Excluir', também serão acrescidos ao site.
 ## :soon: Implementação futura
 * Implementação de dados que validam a existência do cliente. Exemplo: CPF, CNPJ(caso seja pessoa júridica) e RG.
 
+## :hammer_and_wrench: Estrutura de Dados
+*Cadastro dos Clientes
+
+Cadastro {
+    id:00
+    nome:"Nome"
+    data_nascimento:"01/04/2004"
+    sexo:"Masculino","Feminino"
+    }
+    
 ## :handshake: Colaboradores
 <table>
   <tr>
