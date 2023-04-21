@@ -1,31 +1,25 @@
-<h1 align="center">Cadastro de Clientes</h1>
+<h1 align="center">Cadastro de Carros</h1>
 
 ## :memo: Descrição
-* Criar um site de cadastro de clintes, em empresas, lojas ou qualquer que seja sua designação.
+* Criar uma api de cadastro de carros.
 
 ## :books: Funcionalidades
-* <b>Funcionalidades </b>: Nesse site, o administrador ou o operador do sistema poderá cadastrar clientes da sua loja ou empresa, por exemplo.
-Vai possuir botões de 'Cadastar cliente', que será o botão que levará para tela de cadastro.
-A tela de cadastro, vai possuir espaços, para que o operador registre os dados do usúario.
-Botões de 'Editar' e 'Excluir', também serão acrescidos ao site.
+* <b>Funcionalidades </b>: Nesse site, o administrador ou o operador do sistema poderá cadastrar carros.
 
 ## :wrench: Tecnologias utilizadas
-* HTML
-* CSS
-* Javascript
+* My SQL
 * Node.JS
 
 ## :soon: Implementação futura
-* Implementação de dados que validam a existência do cliente. Exemplo: CPF, CNPJ(caso seja pessoa júridica) e RG.
+* Ter um cadastro de clientes para os dono dos carros.
 
 ## :hammer_and_wrench: Estrutura de Dados
-*Cadastro dos Clientes
+*Cadastro de carros
 
     Cadastro {
         id:00
-        name:"Nome"
-        date:"Data de Nascimento"
-        sexo:"Masculino","Feminino"
+        modelo:"Tipo do carro"
+        placa: "AAA0000"
     }
     
 ## :handshake: Colaboradores
@@ -42,4 +36,4 @@ Botões de 'Editar' e 'Excluir', também serão acrescidos ao site.
 </table>
 
 ## :dart: Status do projeto
-* Desenvolvimento.
+* Api concluída.
