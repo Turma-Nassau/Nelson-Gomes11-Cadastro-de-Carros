@@ -1,0 +1,22 @@
+{
+  "carros": [
+    {
+      "marca": "Nova Marca",
+      "modelo": "ssgrege",
+      "ano": "2020",
+      "id": 1
+    },
+    {
+      "marca": "nnnkndknfkd",
+      "modelo": "dfdfd3222",
+      "ano": "2000",
+      "id": 2
+    },
+    {
+      "marca": "hiu",
+      "modelo": "hb20",
+      "ano": "2015",
+      "id": 3
+    }
+  ]
+}

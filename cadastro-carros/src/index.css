@@ -1,0 +1,41 @@
+.titulo {
+  text-align: center;
+} 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 65vh;
+}
+  .formulario {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    padding: 10px;
+    width: 300px;
+  }
+
+  .caixa-texto {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+  }
+  
+  .caixa-carro {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .input-form {
+    width: 95%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  
