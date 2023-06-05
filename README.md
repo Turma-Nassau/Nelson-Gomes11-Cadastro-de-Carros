@@ -9,6 +9,7 @@
 ## :wrench: Tecnologias utilizadas
 * My SQL
 * Node.JS
+* *React
 
 ## :soon: Implementação futura
 * Ter um cadastro de clientes para os dono dos carros.
@@ -19,7 +20,7 @@
     Cadastro {
         id:00
         modelo:"Tipo do carro"
-        placa: "AAA0000"
+        marca: "Marca do carro"
     }
     
 ## :handshake: Colaboradores
@@ -37,3 +38,4 @@
 
 ## :dart: Status do projeto
 * Api concluída.
+* React concluído.
